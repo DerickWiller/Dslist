@@ -39,10 +39,5 @@ Para executar o projeto localmente, você precisará de:
 - Maven instalado.
 - PostgreSQL instalado e configurado.
 
-## Instalação e Execução
 
-### 1. Clone o repositório
 
-```bash
-git clone https://github.com/DerickWiller/Dslist.git
-cd Dslist
